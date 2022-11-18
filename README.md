@@ -14,4 +14,5 @@ I'm Gustavo K. Piccoli, now i'm preparing to be a full stack developer!
 <img src="https://github-readme-stats.vercel.app/api?username=gkpiccoli&show_icons=true&theme=radical" />
 </div>
 
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gkpiccoli&theme=radical)
 
