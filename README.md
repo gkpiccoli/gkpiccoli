@@ -13,12 +13,14 @@ I'm Gustavo K. Piccoli, now I'm preparing to be a full stack developer! I curren
   ## My repo status:  
 ![My stats](https://github-readme-stats.vercel.app/api?username=gkpiccoli&show_icons=true&theme=radical)
   
+    
+  ## My code streak:
+ [![GitHub Streak](https://streak-stats.demolab.com?user=gkpiccoli&theme=radical&border_radius=2.5)](https://git.io/streak-stats)
+  
   ## Most used languages:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gkpiccoli&theme=radical)
 
  
-  ## Here is a random joke that'll make you laugh! 😂
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
   
 
