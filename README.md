@@ -1,6 +1,6 @@
 # About me 🧔🇧🇷 #
 
-I'm Gustavo K. Piccoli, now i'm preparing to be a full stack developer!
+I'm Gustavo K. Piccoli, now I'm preparing to be a full stack developer! I currently programing with Dart/Flutter and code every day.
 
 
 🌱 I’m currently learning:
