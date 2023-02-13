@@ -1,9 +1,9 @@
 # About me 🧔 🇧🇷 #
 
-I'm Gustavo K. Piccoli, now I'm preparing to be a full stack developer! I currently programing with Dart/Flutter and code every day, please check!
+I'm Gustavo K. Piccoli, now I'm preparing to be a Mobile developer! I currently programing with Kotlin/Dart/Flutter and code every day, please check!
 
 
-#### 🌱 I’m currently learning:  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+#### 🌱 I’m currently learning:  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 #### 📫 How to reach me: <a href="https://www.linkedin.com/in/gkpiccoli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="gustavokpiccoli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
