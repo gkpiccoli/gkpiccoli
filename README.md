@@ -22,6 +22,8 @@ I'm Gustavo K. Piccoli, now I'm preparing to be a FullStack developer
   ## Most used languages:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gkpiccoli&theme=radical)
 
+
+CRYPTO
  
 
   
